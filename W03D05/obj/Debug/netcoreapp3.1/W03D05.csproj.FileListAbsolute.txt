@@ -1,0 +1,15 @@
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\obj\Debug\netcoreapp3.1\W03D05.csprojAssemblyReference.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\obj\Debug\netcoreapp3.1\W03D05.Form1.resources
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\obj\Debug\netcoreapp3.1\W03D05.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\obj\Debug\netcoreapp3.1\W03D05.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\obj\Debug\netcoreapp3.1\W03D05.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\obj\Debug\netcoreapp3.1\W03D05.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\bin\Debug\netcoreapp3.1\W03D05.exe
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\bin\Debug\netcoreapp3.1\W03D05.deps.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\bin\Debug\netcoreapp3.1\W03D05.runtimeconfig.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\bin\Debug\netcoreapp3.1\W03D05.runtimeconfig.dev.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\bin\Debug\netcoreapp3.1\W03D05.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\bin\Debug\netcoreapp3.1\W03D05.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\obj\Debug\netcoreapp3.1\W03D05.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\obj\Debug\netcoreapp3.1\W03D05.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D05\W03D05\obj\Debug\netcoreapp3.1\W03D05.genruntimeconfig.cache
